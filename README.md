@@ -127,11 +127,11 @@ cd AmazonAutomation
 
 If it doesn’t already exist, create the required folder:
 
-bash
+```bash
 mkdir -p src/test/java/test/helloworld
 
 
-Then replace the contents of `src/test/java/test/helloworld/AppTest.java` with your `AmazonAutomation.java` file.
+
 
 ---
 
